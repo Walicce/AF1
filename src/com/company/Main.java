@@ -44,6 +44,7 @@ public class Main {
             System.out.println("u won");
         } else if (plane1 instanceof cAirship && plane2 instanceof cBomber) {
             System.out.println("u lose");
+            System.out.println("tu-tu-ru *");
         } else {
             System.out.println("///");
         }
