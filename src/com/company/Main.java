@@ -8,7 +8,7 @@ public class Main {
         var scan = new Scanner(System.in);
         cPlane plane1 = null, plane2 = null;
         long choice1, choice2;
-
+        System.out.println("привет сосед ");
         System.out.println("Игрок 1. Введите класс самолета");
         System.out.println("1 - Bomber");
         System.out.println("2 - Airship");
